@@ -8,5 +8,5 @@ Hey there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BWalliz&layout=compact&theme=tokyonight)](https://github.com/BWalliz/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Web-Scraping-Project&theme=tokyonight)](https://github.com/BWalliz/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Tableau-Projects&theme=tokyonight)](https://github.com/BWalliz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Web-Scraping-Project&theme=tokyonight)](https://github.com/BWalliz/Web-Scraping-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Tableau-Projects&theme=tokyonight)](https://github.com/BWalliz/Tableau-Projects)
