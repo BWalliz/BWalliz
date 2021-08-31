@@ -19,3 +19,4 @@ I'm Brandon, a Business Analytics undergraduate student from Los Angeles.  I am 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BWalliz&layout=compact&theme=tokyonight)](https://github.com/BWalliz/github-readme-stats)
+[![Brandons's GitHub stats](https://github-readme-stats.vercel.app/api?username=BWalliz&custom_title=Brandon%20Wallace's%20Github%20Stats&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/BWalliz/github-readme-stats)
