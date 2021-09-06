@@ -3,7 +3,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bwallace98/)
 [![Visits Badge](https://badges.pufler.dev/visits/BWalliz/BWalliz)](https:github.com/BWalliz)
 
+<h2 align="center">
 Hey there 👋
+</h2>
 
 I'm Brandon, a Business Analytics undergraduate student from Los Angeles.  I am enhancing my skills by solving various problems using machine learning and other types of data analytics and data visualization tools such as Python, R, SQL, and Tableau.
 
