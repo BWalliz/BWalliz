@@ -14,6 +14,7 @@ I'm Brandon, a Business Analytics undergraduate student from Los Angeles.  I am 
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Web-Scraping-Project&theme=tokyonight)](https://github.com/BWalliz/Web-Scraping-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Machine-Learning-Projects&theme=tokyonight)](https://github.com/BWalliz/Machine-Learning-Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Tableau-Projects&theme=tokyonight)](https://github.com/BWalliz/Tableau-Projects)
 
 ## &#x1f4c8; GitHub Stats
