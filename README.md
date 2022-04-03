@@ -14,9 +14,10 @@ I'm Brandon, a Business Analytics undergraduate student from Los Angeles.  I am 
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Portfolio&theme=tokyonight)](https://github.com/BWalliz/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Surfline-Forecast-Bot&theme=tokyonight)](https://github.com/BWalliz/Surfline-Forecast-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Reddit-API-Pipeline&theme=tokyonight)](https://github.com/BWalliz/Reddit-API-Pipeline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Machine-Learning-Projects&theme=tokyonight)](https://github.com/BWalliz/Machine-Learning-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Tableau-Projects&theme=tokyonight)](https://github.com/BWalliz/Tableau-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Surfline-Forecast-Bot&theme=tokyonight)](https://github.com/BWalliz/Surfline-Forecast-Bot)
+
 
 ## &#x1f4c8; GitHub Stats
 
