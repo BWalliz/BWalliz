@@ -14,7 +14,7 @@ I'm Brandon, a Business Analytics undergraduate student from Los Angeles.  I am 
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Portfolio&theme=tokyonight)](https://github.com/BWalliz/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Reddit-API-Pipeline&theme=tokyonight)](https://github.com/BWalliz/Reddit-API-Pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Reddit-ELT-Pipeline&theme=tokyonight)](https://github.com/BWalliz/Reddit-ELT-Pipeline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Machine-Learning-Projects&theme=tokyonight)](https://github.com/BWalliz/Machine-Learning-Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BWalliz&repo=Local-Surf-Bot&theme=tokyonight)](https://github.com/BWalliz/Local-Surf-Bot)
 
