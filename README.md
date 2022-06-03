@@ -7,7 +7,7 @@
 Hey there 👋
 </h2>
 
-I'm Brandon, a Business Analytics undergraduate student from Los Angeles.  I am enhancing my skills by solving various problems using machine learning and other types of data analytics and data visualization tools such as Python, R, SQL, and Tableau.
+I'm Brandon, a Data Science graduate student from Los Angeles.  I am enhancing my skills by solving various problems using machine learning and other types of data analytics and data visualization tools such as Python, R, SQL, and Tableau.
 
 ## 📌 Pinned Repositories
 
