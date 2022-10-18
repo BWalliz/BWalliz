@@ -7,7 +7,7 @@
 Hey there 👋
 </h2>
 
-I'm Brandon, a Data Science graduate student from Los Angeles.  I am enhancing my skills by solving various problems using machine learning and other types of data analytics and data visualization tools such as Python, R, SQL, and Tableau.
+I'm Brandon, a Data Science graduate student from Los Angeles.  I am currently working as a Data Engineer at PepsiCo where I am further enhancing my skillset but solving complex, bit data problems.
 
 ## &#x1f4c8; GitHub Stats
 
