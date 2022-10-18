@@ -7,7 +7,7 @@
 Hey there 👋
 </h2>
 
-I'm Brandon, a Data Science graduate student from Los Angeles.  I am currently working as a Data Engineer at PepsiCo where I am further enhancing my skillset but solving complex, big data problems.
+I'm Brandon, a Data Science graduate student from Los Angeles.  I am currently working as a Data Engineer at PepsiCo where I am further enhancing my skillset by solving complex, big data problems.
 
 ## &#x1f4c8; GitHub Stats
 
